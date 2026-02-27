@@ -39,6 +39,7 @@ Look for:
 Forces · Space & Movement · States · Actions · Relations · Archetypes · Elements · Psychology · Cognition · Temporal · Conflict · Nature & Cosmos · Body & Matter · Social · Abstract · Structural
 
 Full list: `symbols.md`
+Randomizer script: `gensym.py` (requires Python 3, no dependencies)
 
 ---
 
@@ -76,3 +77,4 @@ python3 gensym.py 4 deep # 4 головних + 4 деталі для кожно
 Сили · Рух · Стани · Дії · Стосунки · Архетипи · Елементи · Психологія · Пізнання · Час · Конфлікт · Природа · Тіло · Соціальне · Абстрактне · Структурне
 
 Повний список: `symbols.md`
+Скрипт рандомайзера: `gensym.py` (потрібен Python 3, без залежностей)
