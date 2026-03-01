@@ -62,7 +62,20 @@ See `naming.md` for the full naming system.
 
 ---
 
+## Exile
+
+**Draw:** Child · Surrender · Balance · Birth
+
+She was head of a major division. Her superior removed her — demoted to head of a sub-division.
+
+He didn't understand her proposals logically. He felt them. Instinctively, he was protecting the system's balance from something that hadn't been born yet — but was already changing everything around it.
+
+He is not a villain. He is a guardian of balance — right in his own way, blind in his own way. The conflict between them has no simple side to take.
+
+She surrendered. Outwardly. The child — the idea, the threat, the thing not yet born — she carried inside.
+
+---
+
 ## Open questions
 
-- Exile — already happened or still ahead?
 - What hasn't she said about herself yet (Shadow)?
