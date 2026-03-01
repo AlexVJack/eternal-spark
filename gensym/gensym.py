@@ -1,6 +1,6 @@
 """
 GenSym — Fundamental Units of Sense
-128 symbols for generative fiction.
+136 symbols for generative fiction.
 
 Usage:
     python3 gensym.py          # 4 main symbols
@@ -156,6 +156,15 @@ SYMBOLS = {
     126: "Noise",
     127: "Existence",
     128: "Propagation",
+    # 17. Form & Space
+    129: "Vessel",
+    130: "Path",
+    131: "Shelter",
+    132: "Tool",
+    133: "Stage",
+    134: "Archive",
+    135: "Node",
+    136: "Surface",
 }
 
 
