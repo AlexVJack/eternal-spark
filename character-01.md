@@ -50,8 +50,19 @@ Now she stands between: loyalty to the system she built, and a truth that cannot
 
 ---
 
+## Name
+
+**Megil Dys Sin**
+
+- *Megil* — given name (Memory + Guilt → Meg + il)
+- *Dys* — clan (Disclosure → Dys)
+- *Sin* — region (Synthesis → Sin)
+
+See `naming.md` for the full naming system.
+
+---
+
 ## Open questions
 
-- Name
 - Exile — already happened or still ahead?
 - What hasn't she said about herself yet (Shadow)?
