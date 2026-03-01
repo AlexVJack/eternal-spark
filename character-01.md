@@ -76,6 +76,16 @@ She surrendered. Outwardly. The child — the idea, the threat, the thing not ye
 
 ---
 
-## Open questions
+## Shadow
 
-- What hasn't she said about herself yet (Shadow)?
+**Draw:** Beginning · Discovery · Solitude · Recursion
+
+She knows where the singularity discovery came from — because she was the first to find it. Alone. And never said so.
+
+The Shadow is not a secret from the past. It is authorship.
+
+She didn't just see the danger before anyone else. She discovered what was later sold. In solitude, at the very beginning. And then watched it move through the corporation's hands like any other piece of knowledge.
+
+Recursion — she is trapped inside her own discovery. The thing she found is now destroying what she built. She warned against it without ever admitting she created it.
+
+This changes everything about her.
