@@ -1,57 +1,57 @@
-# Головний персонаж — GenSym-розклад
+# Main Character — GenSym Draw
 
-**Дата:** 01.03.2026
-**Команда:** `python3 gensym.py 4` × 7
-
----
-
-## Сім наборів
-
-**Набір 1:** Solitude · Polarity · Boundary · Illusion
-
-**Набір 2:** Resonance · Trickster · Touch · Earth
-
-**Набір 3:** Submission · Longing · Mystery · Balance
-
-**Набір 4:** Air · Insight · Question · Feedback
-
-**Набір 5:** Builder · Confrontation · Loyalty · Awakening
-
-**Набір 6:** Growth · Leader · Air · Consciousness
-
-**Набір 7:** Shadow · Discovery · Acceptance · Exile
+**Date:** 01.03.2026
+**Command:** `python3 gensym.py 4` × 7
 
 ---
 
-## Що помітно
+## Seven draws
 
-- **Повітря** — двічі (набори 4 і 6)
-- **Самотність і Вигнання** — обидва є
-- **Тінь і Ілюзія** — щось приховане або невидиме
-- **Туга** — присутня
+**Draw 1:** Solitude · Polarity · Boundary · Illusion
 
----
+**Draw 2:** Resonance · Trickster · Touch · Earth
 
-## Портрет
+**Draw 3:** Submission · Longing · Mystery · Balance
 
-Вона не займає головну посаду. Ніколи не займала — і не прагнула. Середня ланка однієї з корпорацій-брокерів: аналітик, або куратор потоків знань. Людина яка перевіряє що куплено і що продано. Непомітна — як повітря.
+**Draw 4:** Air · Insight · Question · Feedback
 
-Але саме вона відчуває перша.
+**Draw 5:** Builder · Confrontation · Loyalty · Awakening
 
-Корпорація для неї — не переконання, а рамка. Вона прийняла правила давно, без драми. Підкорилась — бо так було простіше ніж пояснювати іншим що вона бачить те чого вони не бачать. Туга по таємниці живе в ній тихо, роками. Не революціонерка. Просто — людина з надто точним резонансом.
+**Draw 6:** Growth · Leader · Air · Consciousness
 
-Її сила в питаннях. Вона не дає відповідей — вона задає питання після яких відповідь стає очевидною. Це і є її Trickster: не обман, а здатність бачити де ілюзія видає себе за факт.
-
-Вона будувала цю систему своїми руками — і тому знає де тріщини. Коли через корпорацію пройшло відкриття про сингулярність — всі навколо побачили "цінний актив". Вона побачила межу. І зрозуміла: ілюзія нейтральності знання зараз коштуватиме дуже дорого.
-
-Сказала — не повірили. Або не захотіли.
-
-Тепер вона між: лояльність до системи яку будувала, і правда яку не можна розлояльнити. Вигнання — попереду або вже сталось. Тінь — це те що вона про себе ще не сказала. Прийняття — це фінал її дуги.
+**Draw 7:** Shadow · Discovery · Acceptance · Exile
 
 ---
 
-## Відкриті питання
+## Patterns
 
-- Ім'я
-- Вигнання — вже сталось чи попереду?
-- Що вона про себе ще не сказала (Тінь)?
+- **Air** — appears twice (draws 4 and 6)
+- **Solitude and Exile** — both present
+- **Shadow and Illusion** — something hidden or concealed
+- **Longing** — quiet, persistent
+
+---
+
+## Portrait
+
+She doesn't hold a senior position. Never did — never wanted to. Middle tier of one of the broker corporations: analyst, or curator of knowledge flows. The person who checks what was bought and what was sold. Invisible — like air.
+
+But she is the first to feel it.
+
+The corporation is not a conviction for her — it's a frame. She accepted the rules long ago, without drama. Submitted — because it was easier than explaining to others that she sees what they don't. The longing for mystery has lived in her quietly, for years. Not a revolutionary. Just a person with too precise a resonance.
+
+Her power is in questions. She doesn't give answers — she asks questions after which the answer becomes obvious. That is her Trickster: not deception, but the ability to see where illusion is passing itself off as fact.
+
+She built this system with her own hands — and therefore knows where the cracks are. When the discovery about singularity passed through the corporation, everyone around saw "a valuable asset." She saw a boundary. And understood: the illusion of knowledge being neutral was about to cost everything.
+
+She said so. They didn't believe her. Or didn't want to.
+
+Now she stands between: loyalty to the system she built, and a truth that cannot be unloyal to. Exile — ahead or already happened. Shadow — something about herself she hasn't said yet. Acceptance — the final arc.
+
+---
+
+## Open questions
+
+- Name
+- Exile — already happened or still ahead?
+- What hasn't she said about herself yet (Shadow)?
