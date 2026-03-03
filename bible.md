@@ -7,12 +7,15 @@ Living document. Updated after every scene.
 ## Established Facts
 
 ### The Corporation
+- Name: **Chilin Dis Ra** — in text: *Chilin*
+- Draw: Child · Intuition · Discovery · Rage
 - Knowledge brokers — collect, process, distribute information between civilizations
 - 300 years in operation
 - Systems are efficient by design and by culture
 
 ### The Vessel
-- Name: **not yet established**
+- Name: **Censig Lov Aut** — in text: *Censig*
+- Draw: Center · Signal · Love · Authenticity
 - In transit during Scene 01
 - Deck Seven: aft section, sub-division terminal behind a temporary partition (11 months old)
 - Main analytical floor: open, visible, performative
@@ -41,9 +44,11 @@ Living document. Updated after every scene.
 - Relation to Megil's clan name (Dys): **not yet established**
 
 ### The Intake Analyst
+- Name: **Quansi Ten Se** — in text: *Quansi*
+- Draw: Quantity · Silence · Tension · Search
 - Someone from the main floor
 - Young
-- Name: **not yet established**
+- Flagged Packet 31 as: *moderate value, long-cycle asset, recommend standard distribution*
 
 ---
 
@@ -64,10 +69,11 @@ Living document. Updated after every scene.
 ### Scene 01 — Done
 Megil at her terminal. Packet 31 arrives. She recognizes the shape of her own discovery. The vessel carries the detonator without knowing it. She opens packet 32.
 
-### Scene 02 — Next
+### Scene 02 — In progress
 - **Give the world a body.** The reader needs to feel the vessel — sound, scale, light, gravity, smell. One concrete physical detail that makes the universe real.
-- Introduce at least one named element (the vessel, the corporation, or the analyst).
+- Named: Censig (vessel), Chilin (corporation), Quansi (analyst).
 - Megil moves — she doesn't stay at the terminal.
+- Symbols: `scene-02-symbols.md`
 
 ---
 
