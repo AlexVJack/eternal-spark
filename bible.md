@@ -43,6 +43,20 @@ Living document. Updated after every scene.
 - Referenced as origin of navigational refinements (packets 7–19)
 - Relation to Megil's clan name (Dys): **not yet established**
 
+### The Outpost
+- Name: **Tresil Gyl Flin** — in text: *Tresil*
+- Draw: Threshold · Illusion · Guilt · Flight
+- Remote planet, boundary station for 11 years. Before that: survey relay. Before that: something the corporation stopped explaining.
+- Current staff: four people. One has requested transfer 7 months ago — still waiting.
+- Receives Chilin distribution preview queue
+
+### Forid Flov Cen
+- In text: *Forid*
+- Draw: Foresight · Feedback · Flow · Center
+- Stationed at Tresil. Has not requested a transfer.
+- Read Packet 31 preview twice without finishing.
+- Knows the *Censig* is coming. Has known for a while.
+
 ### The Intake Analyst
 - Name: **Quansi Ten Se** — in text: *Quansi*
 - Draw: Quantity · Silence · Tension · Search
@@ -74,6 +88,9 @@ Named: Censig (vessel), Chilin (corporation), Quansi (analyst). Megil crosses th
 
 ### Scene 03 — Done
 She returns to her terminal. Opens origination record — sees her own words from eight years ago beside Packet 31's summary. Does not write the thing she almost writes. First mention of Dys Collective as open question. Symbols: `scene-03-symbols.md`
+
+### Scene 04 — Done
+New line. Forid Flov Cen at Tresil outpost on a remote planet. Reads preview of Chilin distribution queue — reaches Packet 31 twice without finishing. The *Censig* is six hours out. He has not requested a transfer. Symbols: `scene-04-symbols.md`
 
 ---
 
