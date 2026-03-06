@@ -69,11 +69,11 @@ Living document. Updated after every scene.
 ### Scene 01 — Done
 Megil at her terminal. Packet 31 arrives. She recognizes the shape of her own discovery. The vessel carries the detonator without knowing it. She opens packet 32.
 
-### Scene 02 — In progress
-- **Give the world a body.** The reader needs to feel the vessel — sound, scale, light, gravity, smell. One concrete physical detail that makes the universe real.
-- Named: Censig (vessel), Chilin (corporation), Quansi (analyst).
-- Megil moves — she doesn't stay at the terminal.
-- Symbols: `scene-02-symbols.md`
+### Scene 02 — Done
+Named: Censig (vessel), Chilin (corporation), Quansi (analyst). Megil crosses through the partition. Sees Quansi working. Feels not anger — something closer to a room she left when young. Returns through the partition. Symbols: `scene-02-symbols.md`
+
+### Scene 03 — Done
+She returns to her terminal. Opens origination record — sees her own words from eight years ago beside Packet 31's summary. Does not write the thing she almost writes. First mention of Dys Collective as open question. Symbols: `scene-03-symbols.md`
 
 ---
 
