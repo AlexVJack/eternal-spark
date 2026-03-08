@@ -23,7 +23,7 @@ Living document. Updated after every scene.
 
 ### Megil Dys Sin
 - Current position: head of a sub-division (demoted ~11 months ago)
-- Former position: head of a major division
+- Former position: head of a major division — evaluated what knowledge would do to civilizations
 - Works aft, Deck Seven, behind a partition she prefers
 - Morning routine: reviews data cascade at terminal
 - Discovery: found the singularity principle alone, 8 years ago
@@ -31,6 +31,7 @@ Living document. Updated after every scene.
   - Filed it as a reference note in a methodology document — not as a discovery
   - Never claimed authorship
 - Habit: runs hand along terminal edge without thinking
+- Has built 47 detonation projections — one per buyer — and saved a hidden copy in an unaudited maintenance partition
 
 ### The Discovery (Packet 31)
 - Theoretical framework from an unknown originating civilization
@@ -68,13 +69,11 @@ Living document. Updated after every scene.
 
 ## Open Questions
 
-- Name of the corporation
-- Name of the vessel
-- Name of the intake analyst
 - What exactly is the Dys Collective
 - What civilization produced packet 31
 - Who demoted Megil and why (established in character-01.md — expand into scene)
 - What the revelation at the end of the book will be
+- What is the hidden file Megil saved — and when does it surface
 
 ---
 
@@ -91,6 +90,9 @@ She returns to her terminal. Opens origination record — sees her own words fro
 
 ### Scene 04 — Done
 New line. Forid Flov Cen at Tresil outpost on a remote planet. Reads preview of Chilin distribution queue — reaches Packet 31 twice without finishing. The *Censig* is six hours out. He has not requested a transfer. Symbols: `scene-04-symbols.md`
+
+### Scene 05 — Done
+Back to Megil. She stops pretending to work the queue and opens the distribution manifest for Packet 31. Traces 47 buyers — projects what the singularity principle will do to each civilization. Builds a map of consequences no one asked for. Saves a hidden copy in an unaudited maintenance partition. Not a plan. Not a decision. Hunger. Symbols: `scene-05-symbols.md`
 
 ---
 
