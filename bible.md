@@ -30,8 +30,12 @@ Living document. Updated after every scene.
   - 3 months of night shifts in a borrowed research space
   - Filed it as a reference note in a methodology document — not as a discovery
   - Never claimed authorship
-- Habit: runs hand along terminal edge without thinking
+- Habit: runs hand along terminal edge without thinking — originates from the first day on Deck Seven, the sharp edge replacing the smooth haptic interface she was used to
 - Has built 47 detonation projections — one per buyer — and saved a hidden copy in an unaudited maintenance partition
+- Designed Chilin's evaluation framework — the system that determines which knowledge is safe to sell
+- Was removed by her own architecture: the system she built identified her proposals as a threat
+- Her last three proposals before demotion: argued that certain knowledge categories become irreversible once distributed, evaluation framework must include a classification for assets that alter the buyer beyond recognition
+- Said nothing at her demotion. Silence was not surrender — it was protection of the idea she carried
 
 ### The Discovery (Packet 31)
 - Theoretical framework from an unknown originating civilization
@@ -65,13 +69,22 @@ Living document. Updated after every scene.
 - Young
 - Flagged Packet 31 as: *moderate value, long-cycle asset, recommend standard distribution*
 
+### Loytul Sak Stor
+- In text: *Loytul*
+- Draw: Loyalty · Tool · Sacrifice · Storm
+- Megil's superior — the one who demoted her
+- Not a villain. A guardian of balance. Loyal to the system, trusts its structures
+- Read Megil's last three proposals and was frightened — not by the logic, but by what it pointed at
+- Announced restructuring publicly on the main analytical floor: Megil's assessment division distributed across three departments
+- Demoted her to head of sub-division, Deck Seven aft section
+
 ---
 
 ## Open Questions
 
 - What exactly is the Dys Collective
 - What civilization produced packet 31
-- Who demoted Megil and why (established in character-01.md — expand into scene)
+- ~~Who demoted Megil and why~~ — **resolved in Scene 06**: Loytul Sak Stor, publicly, on the main floor
 - What the revelation at the end of the book will be
 - What is the hidden file Megil saved — and when does it surface
 
@@ -93,6 +106,9 @@ New line. Forid Flov Cen at Tresil outpost on a remote planet. Reads preview of 
 
 ### Scene 05 — Done
 Back to Megil. She stops pretending to work the queue and opens the distribution manifest for Packet 31. Traces 47 buyers — projects what the singularity principle will do to each civilization. Builds a map of consequences no one asked for. Saves a hidden copy in an unaudited maintenance partition. Not a plan. Not a decision. Hunger. Symbols: `scene-05-symbols.md`
+
+### Scene 06 — Done
+Flashback: eleven months before Scene 01. The main analytical floor. Loytul Sak Stor announces the restructuring of Megil's assessment division. Public demotion. She says nothing. Walks to Deck Seven. Sits at the terminal with the sharp edge. First touch of the partition. The origin of everything in Scenes 01–05. Symbols: `scene-06-symbols.md`
 
 ---
 
