@@ -32,6 +32,8 @@ Living document. Updated after every scene.
   - Never claimed authorship
 - Habit: runs hand along terminal edge without thinking — originates from the first day on Deck Seven, the sharp edge replacing the smooth haptic interface she was used to
 - Has built 47 detonation projections — one per buyer — and saved a hidden copy in an unaudited maintenance partition
+- During descent to Tresil: first moment of doubt — her projections may be incomplete, not wrong. She projected what singularity destroys but not what it builds
+- Wrote a question ("What does a civilization look like on the other side?") and did not save it
 - Designed Chilin's evaluation framework — the system that determines which knowledge is safe to sell
 - Was removed by her own architecture: the system she built identified her proposals as a threat
 - Her last three proposals before demotion: argued that certain knowledge categories become irreversible once distributed, evaluation framework must include a classification for assets that alter the buyer beyond recognition
@@ -61,6 +63,15 @@ Living document. Updated after every scene.
 - Stationed at Tresil. Has not requested a transfer.
 - Read Packet 31 preview twice without finishing.
 - Knows the *Censig* is coming. Has known for a while.
+- Has spent 11 years noticing things no one else found worth noticing — the noticing became purpose
+- Understands the edge is not exile but where signal is clearest
+- Felt something different in the *Censig*'s arrival — not in the ship, in himself
+
+### Tresil (planet)
+- Depends on ships for supplies and confirmation of existence
+- Ground holds water — mineral density, noted by original survey, ignored since
+- The edge, not exile — where the signal is clearest because nothing stands between you and the noise
+- Sky during descent: transitional, the colour of something ending
 
 ### The Intake Analyst
 - Name: **Quansi Ten Se** — in text: *Quansi*
@@ -109,6 +120,9 @@ Back to Megil. She stops pretending to work the queue and opens the distribution
 
 ### Scene 06 — Done
 Flashback: eleven months before Scene 01. The main analytical floor. Loytul Sak Stor announces the restructuring of Megil's assessment division. Public demotion. She says nothing. Walks to Deck Seven. Sits at the terminal with the sharp edge. First touch of the partition. The origin of everything in Scenes 01–05. Symbols: `scene-06-symbols.md`
+
+### Scene 07 — Done
+*Censig* descends to Tresil. Two parallel lines: Forid watches from the platform — the edge where signal is clearest. Megil inside the ship — for the first time asks not what the singularity will destroy, but what it will build. Writes a question, does not save it. The question stays. They do not meet — but they approach. Symbols: `scene-07-symbols.md`
 
 ---
 
