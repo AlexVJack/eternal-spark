@@ -38,6 +38,9 @@ Living document. Updated after every scene.
 - Was removed by her own architecture: the system she built identified her proposals as a threat
 - Her last three proposals before demotion: argued that certain knowledge categories become irreversible once distributed, evaluation framework must include a classification for assets that alter the buyer beyond recognition
 - Said nothing at her demotion. Silence was not surrender — it was protection of the idea she carried
+- First time on a planet surface in at least 11 months. The wind, the air, the ground — her body registered the difference before her mind
+- Rage at herself: eight years carrying the discovery as a wound, forty-seven projections of destruction and not one beginning. The rage was clean — it cleared space
+- Forid saw her from 40 meters. Did not approach. Recognized the signal from the distance.
 
 ### The Discovery (Packet 31)
 - Theoretical framework from an unknown originating civilization
@@ -123,6 +126,9 @@ Flashback: eleven months before Scene 01. The main analytical floor. Loytul Sak 
 
 ### Scene 07 — Done
 *Censig* descends to Tresil. Two parallel lines: Forid watches from the platform — the edge where signal is clearest. Megil inside the ship — for the first time asks not what the singularity will destroy, but what it will build. Writes a question, does not save it. The question stays. They do not meet — but they approach. Symbols: `scene-07-symbols.md`
+
+### Scene 08 — Done
+Megil exits the ship. First open air in 11 months — wind, real gravity, wet ground. Something releases. The unsaved question feels like hunger now, not betrayal. Then rage — clean, self-directed: eight years of mapping destruction, not one beginning. Forid sees her from 40 meters. Does not approach — recognizes the signal from the distance. Two people on the same dark ground, neither knowing what they stand at the beginning of. First time Megil's face is visible. Symbols: `scene-08-symbols.md`
 
 ---
 
