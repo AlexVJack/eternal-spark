@@ -41,6 +41,10 @@ Living document. Updated after every scene.
 - First time on a planet surface in at least 11 months. The wind, the air, the ground — her body registered the difference before her mind
 - Rage at herself: eight years carrying the discovery as a wound, forty-seven projections of destruction and not one beginning. The rage was clean — it cleared space
 - Forid saw her from 40 meters. Did not approach. Recognized the signal from the distance.
+- First direct meeting: signal room at Tresil, during supply handshake. She came without reason. He did not ask why.
+- Touched his terminal edge — different surface from Deck Seven, smoother, older, worn by other hands. Pulled her hand back.
+- Saw Packet 31 on his manifest screen. Involuntary recognition.
+- Looked at Forid directly for the first time. Left before the handshake was finished. Said she would come back.
 
 ### The Discovery (Packet 31)
 - Theoretical framework from an unknown originating civilization
@@ -59,6 +63,8 @@ Living document. Updated after every scene.
 - Remote planet, boundary station for 11 years. Before that: survey relay. Before that: something the corporation stopped explaining.
 - Current staff: four people. One has requested transfer 7 months ago — still waiting.
 - Receives Chilin distribution preview queue
+- Interior: signal room — small, functional. Relay equipment along one wall (receivers, processors, logging unit). Old terminal with flickering display. Steady white overhead light. Surfaces clean but worn. No decoration. A room loyal to its function.
+- Crew moves silently — four people in a space for twelve know which hinges protest
 
 ### Forid Flov Cen
 - In text: *Forid*
@@ -69,6 +75,8 @@ Living document. Updated after every scene.
 - Has spent 11 years noticing things no one else found worth noticing — the noticing became purpose
 - Understands the edge is not exile but where signal is clearest
 - Felt something different in the *Censig*'s arrival — not in the ship, in himself
+- Met Megil in the signal room during supply handshake. Did not ask why she came. Described Tresil as "an archive that doesn't know it's an archive." Said discrepancies wait "for someone to come through who understands what it is" — without knowing what this meant to her.
+- Saw Packet 31 on the manifest after she left. Had read the preview twice before. Still did not know why it mattered — but the shape of not-knowing changed.
 
 ### Tresil (planet)
 - Depends on ships for supplies and confirmation of existence
@@ -129,6 +137,9 @@ Flashback: eleven months before Scene 01. The main analytical floor. Loytul Sak 
 
 ### Scene 08 — Done
 Megil exits the ship. First open air in 11 months — wind, real gravity, wet ground. Something releases. The unsaved question feels like hunger now, not betrayal. Then rage — clean, self-directed: eight years of mapping destruction, not one beginning. Forid sees her from 40 meters. Does not approach — recognizes the signal from the distance. Two people on the same dark ground, neither knowing what they stand at the beginning of. First time Megil's face is visible. Symbols: `scene-08-symbols.md`
+
+### Scene 09 — Done
+First meeting. Signal room at Tresil, supply handshake as pretext. She comes without reason, he doesn't ask why. They talk about cargo, discrepancies, mineral density — never about what matters, but everything they say is about what matters. "An archive that doesn't know it's an archive." She touches his terminal edge — different surface, smoother, older. Sees Packet 31 on his manifest. Looks at him directly for the first time. Leaves before the handshake is finished. He continues alone — the shape of not-knowing has changed. Symbols: `scene-09-symbols.md`
 
 ---
 

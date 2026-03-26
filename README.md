@@ -30,6 +30,7 @@ Written publicly on GitHub. Every commit is a new scene.
 | 6 | Scene Six | Eleven months earlier. The main floor. Public demotion. She says nothing. Walks to Deck Seven. |
 | 7 | Scene Seven | The *Censig* descends. She asks what a civilization looks like on the other side. They do not meet. |
 | 8 | Scene Eight | She steps onto the planet. First open air in eleven months. He sees her from forty meters. |
+| 9 | Scene Nine | A small room. A supply handshake. Two people three meters apart, talking about cargo and mineral density. |
 
 ---
 
