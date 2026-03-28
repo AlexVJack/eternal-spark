@@ -34,11 +34,11 @@
 
 ## Portrait
 
-She doesn't hold a senior position. Never did — never wanted to. Middle tier of one of the broker corporations: analyst, or curator of knowledge flows. The person who checks what was bought and what was sold. Invisible — like air.
+She was head of a major division — the one that evaluated what knowledge would do to civilizations before Chilin sold it. She designed the evaluation framework. Gave the corporation its conscience. Then the system she built identified her proposals as a threat, and she was demoted to head of a sub-division, Deck Seven, behind a partition. Invisible now — like air.
 
-But she is the first to feel it.
+But she was the first to feel it.
 
-The corporation is not a conviction for her — it's a frame. She accepted the rules long ago, without drama. Submitted — because it was easier than explaining to others that she sees what they don't. The longing for mystery has lived in her quietly, for years. Not a revolutionary. Just a person with too precise a resonance.
+The corporation was her frame. She accepted the rules, built inside them, rose through them. Not a revolutionary — a builder. But a builder with too precise a resonance. The longing for mystery lived in her quietly, for years.
 
 Her power is in questions. She doesn't give answers — she asks questions after which the answer becomes obvious. That is her Trickster: not deception, but the ability to see where illusion is passing itself off as fact.
 
