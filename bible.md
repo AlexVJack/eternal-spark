@@ -64,19 +64,26 @@ Living document. Updated after every scene.
 - Current staff: four people. One has requested transfer 7 months ago — still waiting.
 - Receives Chilin distribution preview queue
 - Interior: signal room — small, functional. Relay equipment along one wall (receivers, processors, logging unit). Old terminal with flickering display. Steady white overhead light. Surfaces clean but worn. No decoration. A room loyal to its function.
+- Relay processors: military-grade hardware from Tresil's first life (before boundary station). Hardened, redundant. Running relay protocol at ~10% capacity. Hardware-level commands exist for analysis, pattern recognition, recursive evaluation.
 - Crew moves silently — four people in a space for twelve know which hinges protest
+- After Scene 10: relay antenna damaged by storm (40% capacity). Logging unit indicator amber (was green). Station hum shifted a quarter-tone higher. Cause: unknown / undocumented.
 
 ### Forid Flov Cen
 - In text: *Forid*
 - Draw: Foresight · Feedback · Flow · Center
+- Full character file: `character-forid.md` (7 draws, portrait, backstory)
 - Stationed at Tresil. Has not requested a transfer.
+- Previous posting: processing hub, mid-network, forty analysts. Left after a colleague dismissed his observation about cross-packet patterns.
+- Has been reading context briefs as literature for 11 years — thousands of packets. Sees a "current" — connections between unrelated packets from different civilizations, all moving toward the same destination.
+- The mask: tells himself the edge was a choice. It was flight from the suffocation of being right and ignored.
 - Read Packet 31 preview twice without finishing.
 - Knows the *Censig* is coming. Has known for a while.
-- Has spent 11 years noticing things no one else found worth noticing — the noticing became purpose
 - Understands the edge is not exile but where signal is clearest
 - Felt something different in the *Censig*'s arrival — not in the ship, in himself
 - Met Megil in the signal room during supply handshake. Did not ask why she came. Described Tresil as "an archive that doesn't know it's an archive." Said discrepancies wait "for someone to come through who understands what it is" — without knowing what this meant to her.
-- Saw Packet 31 on the manifest after she left. Had read the preview twice before. Still did not know why it mattered — but the shape of not-knowing changed.
+- After she left: read Packet 31's full context brief. Recognized it as the destination the current had been moving toward.
+- During the storm: fed Packet 31 to Tresil's military-grade processors as an instruction (*apply*, not *forward*). Processors began recursive analysis. Power failed during the storm. Status unknown — logging unit returned amber, station hum shifted a quarter-tone higher.
+- Wrote in the shift log: "Processing nominal." First deliberate lie.
 
 ### Tresil (planet)
 - Depends on ships for supplies and confirmation of existence
@@ -140,6 +147,9 @@ Megil exits the ship. First open air in 11 months — wind, real gravity, wet gr
 
 ### Scene 09 — Done
 First meeting. Signal room at Tresil, supply handshake as pretext. She comes without reason, he doesn't ask why. They talk about cargo, discrepancies, mineral density — never about what matters, but everything they say is about what matters. "An archive that doesn't know it's an archive." She touches his terminal edge — different surface, smoother, older. Sees Packet 31 on his manifest. Looks at him directly for the first time. Leaves before the handshake is finished. He continues alone — the shape of not-knowing has changed. Symbols: `scene-09-symbols.md`
+
+### Scene 10 — Done
+Morning after. Forid alone. His backstory: processing hub, forty analysts, the colleague who looked and said nothing, the transfer to the edge. Years of reading context briefs as literature — thousands of packets forming a current no one else sees. Packet 31's context brief names the destination the current has been moving toward. Then the storm. He feeds Packet 31 to Tresil's military-grade processors — not as data to forward but as an instruction to apply. The processors begin recursive analysis. Storm hits the antenna, power fails. Three seconds of darkness. Backup engages. Logging unit returns amber. Station hum: a quarter-tone higher. Processing queue says *forwarded*. He writes "Processing nominal" in the shift log. First lie. First action. Symbols: `scene-10-symbols.md`
 
 ---
 
