@@ -67,6 +67,6 @@ From this came **Eternal Spark** — a spark that lives forever. Or: eternity ig
 
 ## Still open
 
-- Main character — see `character-01.md`
+- Main character — see `character-megil.md`
 - Point of view
 - The ending: what exactly is the revelation?
