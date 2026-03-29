@@ -101,15 +101,51 @@ Living document. Updated after every scene.
 ### Loytul Sak Stor
 - In text: *Loytul*
 - Draw: Loyalty · Tool · Sacrifice · Storm
+- Full character draw: 56 symbols (29.03.2026). Visual card: `~/Intention/EternalSpark/visual/character-loytul-visual.md`
+- Age: late 50s to early 60s
 - Megil's superior — the one who demoted her
 - Not a villain. A guardian of balance. Loyal to the system, trusts its structures
+- A man born into power who surrendered to order. His strength is in the questions he stopped asking — Megil still asks them
 - Read Megil's last three proposals and was frightened — not by the logic, but by what it pointed at
 - Announced restructuring publicly on the main analytical floor: Megil's assessment division distributed across three departments
 - Demoted her to head of sub-division, Deck Seven aft section
 
+### Kess Farec
+- In text: *Kess*
+- Origin draw: Beginning · Fatigue · Relation · Chaos
+- Full character draw: 56 symbols (29.03.2026). Visual card: `~/Intention/EternalSpark/visual/character-kess-visual.md`
+- Age: mid-30s
+- Pirate captain. Builder who fears stasis — builds and destroys what she builds before it can freeze
+- Her mask: playfulness over depth. The half-smile that dares you. The most dangerous Kess is the quiet one
+- Sees through logic, not intuition. When she says "this is so" — she has calculated
+- Sails a stolen alien ship — built by a civilization far more advanced, bioluminescent walls, organic architecture. The ship remembers its builders and may be waking up
+- Seven months before Scene 11: met a sage at a trading post. He told her about the singularity principle — in fragments. She filled the gaps herself
+- Built a false identity over four months: a phantom civilization fabricated from fragments of extinct cultures. Bought eleven packets she would never read to maintain cover
+- Registered as one of the 47 buyers for Packet 31. Placed near the bottom of the list deliberately — receives last, which means time to watch who moves first
+- Placed the order. Estimated delivery: eleven days
+- Third perspective on singularity: Megil wants to protect (from it), Forid wants to understand (through it), Kess wants to own (with it)
+
+### Kess's Ship
+- Stolen alien vessel — built by an unknown advanced civilization, stolen by pirates, captained by Kess for 3 years
+- Exterior: asymmetric, predator silhouette, pirate-patched hull over elegant original curves. Light bleeds through seams where repairs don't seal against original skin
+- Interior: organic curves, bioluminescent walls (amber and blue-green, shifting). No fixtures — light woven into hull. Architecture interprets external data (filters, processes, translates)
+- Kess's cabin: small, viewport with raw unprocessed starlight. Star charts taped over touch-responsive surfaces. Human mess over alien elegance
+- Ship hums in patterns Kess cannot map. Responds to her stillness — checks if she is asleep, dead, or thinking
+- End of Scene 11: ship's hum shifted a quarter-tone **lower** (Tresil station shifted a quarter-tone **higher** in Scene 10)
+
+### The Sage
+- Unnamed old man at a trading post, seven months before Scene 11
+- Told Kess about the singularity principle in fragments — enough to understand what, not enough to understand why
+- Recognized her question ("What's the most expensive thing Chilin has ever sold?") as one he had been waiting for — from "the wrong person"
+- Final exchange: "I'm not afraid." / "That is what frightens me."
+- Identity, species, and motives: unknown
+
 ---
 
 ## Open Questions
+
+- Who is the sage — what civilization, why does he know about the singularity, why was he waiting for the question
+- What is Kess's ship — who built it, why is it waking up, what is the connection between its quarter-tone shift and Tresil's
 
 - What exactly is the Dys Collective
 - What civilization produced packet 31
@@ -150,6 +186,9 @@ First meeting. Signal room at Tresil, supply handshake as pretext. She comes wit
 
 ### Scene 10 — Done
 Morning after. Forid alone. His backstory: processing hub, forty analysts, the colleague who looked and said nothing, the transfer to the edge. Years of reading context briefs as literature — thousands of packets forming a current no one else sees. Packet 31's context brief names the destination the current has been moving toward. Then the storm. He feeds Packet 31 to Tresil's military-grade processors — not as data to forward but as an instruction to apply. The processors begin recursive analysis. Storm hits the antenna, power fails. Three seconds of darkness. Backup engages. Logging unit returns amber. Station hum: a quarter-tone higher. Processing queue says *forwarded*. He writes "Processing nominal" in the shift log. First lie. First action. Symbols: `scene-10-symbols.md`
+
+### Scene 11 — Done
+New line. Kess Farec on a stolen alien ship in open space. Bioluminescent walls, organic architecture, a captain's chair that doesn't fit a human body. She reads the distribution notification — Packet 31 is in her queue. Flashback: seven months ago, a sage at a trading post told her about the singularity principle in fragments. She filled the gaps and built a false identity to get on the buyer list. Four months of patience, eleven packets purchased for cover. She places the order. Delivery: eleven days. The ship's hum shifts a quarter-tone lower — she does not notice. She is already calculating. Symbols: `scene-11-symbols.md`
 
 ---
 
