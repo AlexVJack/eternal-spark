@@ -32,6 +32,7 @@ Written publicly on GitHub. Every commit is a new scene.
 | 8 | Scene Eight | She steps onto the planet. First open air in eleven months. He sees her from forty meters. |
 | 9 | Scene Nine | A small room. A supply handshake. Two people three meters apart, talking about cargo and mineral density. |
 | 10 | Scene Ten | Morning after. A storm. Military-grade processors given an instruction no one ever gave them: not *carry this* — *become this*. |
+| 11 | Scene Eleven | New line. A pirate captain on a stolen alien ship. A false identity. Eleven days to delivery. The ship is listening. |
 
 ---
 
