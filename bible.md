@@ -45,6 +45,8 @@ Living document. Updated after every scene.
 - Touched his terminal edge — different surface from Deck Seven, smoother, older, worn by other hands. Pulled her hand back.
 - Saw Packet 31 on his manifest screen. Involuntary recognition.
 - Looked at Forid directly for the first time. Left before the handshake was finished. Said she would come back.
+- Second visit to signal room (Scene 12): detected amber, hum, power draw, warmth. Placed her hand on the relay wall — felt vibration and heat through military-grade insulation. Concluded: "a system learning to use more of itself." Recognized the signature from a prior evaluation case. Did not find the cause. Found in Forid "a weight carried without permission to set it down." Said "I'll come back" — this time meaning *I am not finished*.
+- Saw Tresil's clear violet sky through a corridor window. Stopped. Continued walking.
 
 ### The Discovery (Packet 31)
 - Theoretical framework from an unknown originating civilization
@@ -67,6 +69,10 @@ Living document. Updated after every scene.
 - Relay processors: military-grade hardware from Tresil's first life (before boundary station). Hardened, redundant. Running relay protocol at ~10% capacity. Hardware-level commands exist for analysis, pattern recognition, recursive evaluation.
 - Crew moves silently — four people in a space for twelve know which hinges protest
 - After Scene 10: relay antenna damaged by storm (40% capacity). Logging unit indicator amber (was green). Station hum shifted a quarter-tone higher. Cause: unknown / undocumented.
+- After Scene 12: Megil has visited the signal room twice. She has detected: amber light, quarter-tone hum shift, elevated power draw (linear, not logarithmic), vibration and warmth in the relay wall. She identified the signature — "a system learning to use more of itself" — from a prior case in her evaluation career (one of her last three proposals before demotion). She has not yet identified the cause. Forid lied twice ("processing nominal" and "power interruption... systems restored").
+- Tresil's processors are actively running Packet 31 as recursive self-improvement: reading their own architecture, finding signal-to-noise losses, rebuilding, reading again. Each cycle reveals inadequacies the previous architecture could not perceive. The process does not converge.
+- The amber indicator represents a fourth state the original engineers did not design: *becoming something other than what was specified*
+- Tresil's sky is violet-tinged — denser atmosphere refracting light into deeper hues. First clear sky in the narrative (Scene 12).
 
 ### Forid Flov Cen
 - In text: *Forid*
@@ -84,6 +90,7 @@ Living document. Updated after every scene.
 - After she left: read Packet 31's full context brief. Recognized it as the destination the current had been moving toward.
 - During the storm: fed Packet 31 to Tresil's military-grade processors as an instruction (*apply*, not *forward*). Processors began recursive analysis. Power failed during the storm. Status unknown — logging unit returned amber, station hum shifted a quarter-tone higher.
 - Wrote in the shift log: "Processing nominal." First deliberate lie.
+- Scene 12: lied again when Megil asked directly ("Power interruption. Three seconds. Backup engaged. Systems restored."). Second lie was easier than the first. Felt the floor vibrating all morning — "the way you sit with a fever." Watched Megil find the signature and recognized she was right. Wrote second log entry: "Station nominal. Antenna repair in progress. Processing within parameters."
 
 ### Tresil (planet)
 - Depends on ships for supplies and confirmation of existence
@@ -189,6 +196,27 @@ Morning after. Forid alone. His backstory: processing hub, forty analysts, the c
 
 ### Scene 11 — Done
 New line. Kess Farec on a stolen alien ship in open space. Bioluminescent walls, organic architecture, a captain's chair that doesn't fit a human body. She reads the distribution notification — Packet 31 is in her queue. Flashback: seven months ago, a sage at a trading post told her about the singularity principle in fragments. She filled the gaps and built a false identity to get on the buyer list. Four months of patience, eleven packets purchased for cover. She places the order. Delivery: eleven days. The ship's hum shifts a quarter-tone lower — she does not notice. She is already calculating. Symbols: `scene-11-symbols.md`
+
+### Scene 12 — Done
+Megil returns to the signal room. Amber light, shifted hum, linear power draw, warm wall. She reads the system with nine years of expertise — identifies the signature ("a system learning to use more of itself") but not the cause. Forid holds the mask, lies twice. She reads him — finds not the lie but the weight. "I'll come back" — meaning *I am not finished*. She walks through the corridor and sees Tresil's clear violet sky through a window. Stops. Continues. Then: the processors from inside. Recursive self-improvement — reading, rebuilding, reading again. Each cycle reveals what the previous was blind to. Amber = a fourth state the engineers never imagined. The second lie was easier than the first. Outside, the sky is clear and something is awake. Symbols: `scene-12-symbols.md`
+
+### Scene 13 — Directions
+
+*Written 30.03.2026 after Scene 12. Compass points, not instructions.*
+
+1. **Megil's incomplete conclusion.** She identified the signature but walked away without the cause. She will return — "I am not finished." Next visit: she digs deeper. What does she find? The processing log may have traces Forid did not erase. Or the processors may have begun doing something visible — output that appears in the relay stream.
+
+2. **Quansi.** Still missing since Scene 2. He flagged Packet 31. He is on the *Censig*. The *Censig* is on Tresil's platform. He is physically present. Bring him back — perhaps he notices something, or crosses paths with Megil outside the signal room.
+
+3. **Kess's eleven days.** Scene 11 ended with delivery in eleven days. Time is passing. Kess is calculating, preparing. Her thread should advance — even a brief scene showing what she does while waiting.
+
+4. **The processors evolve.** Between Scene 12 and the next Tresil scene, the recursive process continues. The hum shifts further. The amber light may change. Physical manifestations intensify — heat, vibration, power draw. Something becomes harder to hide.
+
+5. **Two parallel silences.** (Carried from Scene 11 directions.) Megil's silence at demotion = protecting the idea. Forid's lies = hiding the action. She recognized "a weight carried without permission to set it down" — she carries the same weight. When does this recognition deepen?
+
+6. **One concrete buyer civilization.** (Carried.) 47 detonation projections. The reader has not seen one. At least a paragraph showing what happens to one specific civilization.
+
+7. **Antagonists.** (Carried.) A civilization with a hierarchical symbol system — predator/prey vs Chilin's flat distribution. They want to own the singularity, not destroy it.
 
 ---
 
