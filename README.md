@@ -29,7 +29,7 @@ Written publicly on GitHub. Every commit is a new scene.
 | 5 | [Standard Distribution](https://crossingshade.substack.com/p/standard-distribution) | Forty-seven buyers. Forty-seven detonation timelines. A hidden copy in an unaudited partition. |
 | 6 | [The Demotion](https://crossingshade.substack.com/p/the-demotion) | Eleven months earlier. The main floor. Public demotion. She says nothing. Walks to Deck Seven. |
 | 7 | [The Descent](https://crossingshade.substack.com/p/the-descent) | The *Censig* descends. She asks what a civilization looks like on the other side. They do not meet. |
-| 8 | Scene Eight | She steps onto the planet. First open air in eleven months. He sees her from forty meters. |
+| 8 | [Open Ground](https://crossingshade.substack.com/p/open-ground) | She steps onto the planet. First open air in eleven months. He sees her from forty meters. |
 | 9 | Scene Nine | A small room. A supply handshake. Two people three meters apart, talking about cargo and mineral density. |
 | 10 | Scene Ten | Morning after. A storm. Military-grade processors given an instruction no one ever gave them: not *carry this* — *become this*. |
 | 11 | Scene Eleven | New line. A pirate captain on a stolen alien ship. A false identity. Eleven days to delivery. The ship is listening. |
