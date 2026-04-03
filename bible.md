@@ -47,6 +47,10 @@ Living document. Updated after every scene.
 - Looked at Forid directly for the first time. Left before the handshake was finished. Said she would come back.
 - Second visit to signal room (Scene 12): detected amber, hum, power draw, warmth. Placed her hand on the relay wall — felt vibration and heat through military-grade insulation. Concluded: "a system learning to use more of itself." Recognized the signature from a prior evaluation case. Did not find the cause. Found in Forid "a weight carried without permission to set it down." Said "I'll come back" — this time meaning *I am not finished*.
 - Saw Tresil's clear violet sky through a corridor window. Stopped. Continued walking.
+- Third visit to signal room (Scene 13): came at 05:40, before Forid's shift. Read raw hardware log — found processors issuing military-syntax instructions to themselves. Felt the warm wall and the wall held — body told her before mind: the container does not break. First time separating from the detonation frame. Forgave herself for eight years of seeing only destruction.
+- Built a theory: convergent discovery — legacy self-repair triggered by the storm, military hardware's recursive analysis protocols overlapping with Packet 31's framework in the relay buffer. The theory is elegant, precise, and wrong. She cannot see where a system ends and a person begins.
+- Met Quansi in the signal room. Recognized him by function before face. Did not dismiss him. Told him his "moderate value" classification may have been the most honest assessment Chilin produced in three hundred years.
+- Said "I don't know yet" when Quansi asked what the amber meant — her first lie in this room. She did know (or believed she did). Chose not to package it.
 
 ### The Discovery (Packet 31)
 - Theoretical framework from an unknown originating civilization
@@ -91,6 +95,7 @@ Living document. Updated after every scene.
 - During the storm: fed Packet 31 to Tresil's military-grade processors as an instruction (*apply*, not *forward*). Processors began recursive analysis. Power failed during the storm. Status unknown — logging unit returned amber, station hum shifted a quarter-tone higher.
 - Wrote in the shift log: "Processing nominal." First deliberate lie.
 - Scene 12: lied again when Megil asked directly ("Power interruption. Three seconds. Backup engaged. Systems restored."). Second lie was easier than the first. Felt the floor vibrating all morning — "the way you sit with a fever." Watched Megil find the signature and recognized she was right. Wrote second log entry: "Station nominal. Antenna repair in progress. Processing within parameters."
+- Scene 13: arrived at 06:00 to find Megil and Quansi in the signal room. She had found the raw hardware log — his commands visible, timestamps from the storm. She built a convergent discovery theory that erased him from the story. He let her. Felt relief (she did not know) and grief (she had made him invisible). Recognized his own pattern: submission. Eleven years of building the quiet observer — will, not drift. The storm tore a hole in the wall; now the wall repairs itself. Offered to walk her through the relay architecture — a door opened one inch toward the truth.
 
 ### Tresil (planet)
 - Depends on ships for supplies and confirmation of existence
@@ -104,6 +109,10 @@ Living document. Updated after every scene.
 - Someone from the main floor
 - Young
 - Flagged Packet 31 as: *moderate value, long-cycle asset, recommend standard distribution*
+- Scene 13: walked down the ramp before dawn after a sleepless night. Re-read Packet 31's full origination record for the first time. Realized he had classified something beyond his tools with confidence, and the confidence was the problem. "Moderate value" was doubt written as procedure — the closest thing to "I don't know" the system allowed.
+- Heard Tresil's wrong hum — processes equipment reports for sixty stations, carries the baseline frequency without knowing it. Found Megil in the signal room. Told her he re-read the record and didn't understand it then or now.
+- Noticed Forid's hands did not match his voice. Filed it without classification.
+- Stayed. First act of rebellion against the rhythm of flag-classify-forward.
 
 ### Loytul Sak Stor
 - In text: *Loytul*
@@ -200,23 +209,28 @@ New line. Kess Farec on a stolen alien ship in open space. Bioluminescent walls,
 ### Scene 12 — Done
 Megil returns to the signal room. Amber light, shifted hum, linear power draw, warm wall. She reads the system with nine years of expertise — identifies the signature ("a system learning to use more of itself") but not the cause. Forid holds the mask, lies twice. She reads him — finds not the lie but the weight. "I'll come back" — meaning *I am not finished*. She walks through the corridor and sees Tresil's clear violet sky through a window. Stops. Continues. Then: the processors from inside. Recursive self-improvement — reading, rebuilding, reading again. Each cycle reveals what the previous was blind to. Amber = a fourth state the engineers never imagined. The second lie was easier than the first. Outside, the sky is clear and something is awake. Symbols: `scene-12-symbols.md`
 
-### Scene 13 — Directions
+### Scene 13 — Done
+Quansi returns. Walks down the ramp before dawn after a sleepless night re-reading his own classification of Packet 31. Finds Megil alone in the signal room — she came early, before Forid, to read the raw hardware log. Sees the processors issuing instructions to themselves. Feels the warm wall and the wall holds — her body tells her before her mind: the container does not break. For the first time, she separates from the detonation frame. Forgives herself for eight years of seeing only destruction. Quansi enters: hears the wrong hum, sees amber, tells her he re-read the full record and realized "moderate value" was doubt written as procedure. She does not dismiss him. Forid arrives and finds two people in his room. Megil presents her theory: convergent discovery, legacy self-repair triggered by the storm. She is wrong — she cannot see where a system ends and a person begins. Forid lets her be wrong. His silence is submission, pain, the builder repairing his own wall after the storm tore a hole in it. Quansi notices Forid's hands don't match his voice. Files it without classification. Three exiles at the center. The community holds. The processors continue.
 
-*Written 30.03.2026 after Scene 12. Compass points, not instructions.*
+### Scene 14 — Directions
 
-1. **Megil's incomplete conclusion.** She identified the signature but walked away without the cause. She will return — "I am not finished." Next visit: she digs deeper. What does she find? The processing log may have traces Forid did not erase. Or the processors may have begun doing something visible — output that appears in the relay stream.
+*Written 2026-04-03 after Scene 13. Compass points, not instructions.*
 
-2. **Quansi.** Still missing since Scene 2. He flagged Packet 31. He is on the *Censig*. The *Censig* is on Tresil's platform. He is physically present. Bring him back — perhaps he notices something, or crosses paths with Megil outside the signal room.
+1. **Kess's eleven days.** Scene 11 ended with delivery in eleven days. Time is passing. Kess is calculating, preparing. Her thread must advance — what does she do while waiting? The ship is listening.
 
-3. **Kess's eleven days.** Scene 11 ended with delivery in eleven days. Time is passing. Kess is calculating, preparing. Her thread should advance — even a brief scene showing what she does while waiting.
+2. **One concrete buyer civilization.** (Carried.) 47 detonation projections. The reader has not seen one. At least a paragraph showing what happens to one specific civilization when they receive the singularity principle.
 
-4. **The processors evolve.** Between Scene 12 and the next Tresil scene, the recursive process continues. The hum shifts further. The amber light may change. Physical manifestations intensify — heat, vibration, power draw. Something becomes harder to hide.
+3. **Antagonists.** (Carried.) A civilization with a hierarchical symbol system — predator/prey vs Chilin's flat distribution. They want to own the singularity, not destroy it. This shapes the larger arc.
 
-5. **Two parallel silences.** (Carried from Scene 11 directions.) Megil's silence at demotion = protecting the idea. Forid's lies = hiding the action. She recognized "a weight carried without permission to set it down" — she carries the same weight. When does this recognition deepen?
+4. **Forid's wall cracks.** Megil's wrong theory protects him for now. But Quansi noticed his hands. The young analyst sees bodies, not systems. Forid's secret has a new threat — not from expertise but from innocence.
 
-6. **One concrete buyer civilization.** (Carried.) 47 detonation projections. The reader has not seen one. At least a paragraph showing what happens to one specific civilization.
+5. **Megil's wrong answer has consequences.** She will act on her convergent discovery theory. Whatever she does next — report, investigate, intervene — will be based on a false premise. The mistake must produce action, not just misunderstanding.
 
-7. **Antagonists.** (Carried.) A civilization with a hierarchical symbol system — predator/prey vs Chilin's flat distribution. They want to own the singularity, not destroy it.
+6. **Two parallel silences deepen.** (Carried.) Megil's silence at demotion = protecting the idea. Forid's silence now = protecting himself. She recognized "a weight carried without permission to set it down" — but has not yet seen that his weight is different from hers.
+
+7. **Quansi's search begins.** He broke the rhythm of flag-classify-forward. He stayed. What does he do next? He has no expertise in processors or singularity — but he has the recent wound of being wrong, which is its own kind of lens.
+
+8. **The processors step again.** Each cycle reveals what the previous was blind to. Physical manifestations intensify. The hum, the heat, the power draw — something becomes harder to hide.
 
 ---
 
