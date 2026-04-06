@@ -32,7 +32,7 @@ Written publicly on GitHub. Every commit is a new scene.
 | 8 | [Open Ground](https://crossingshade.substack.com/p/open-ground) | She steps onto the planet. First open air in eleven months. He sees her from forty meters. |
 | 9 | [The Terminal](https://crossingshade.substack.com/p/the-terminal) | A small room. A supply handshake. Two people three meters apart, talking about cargo and mineral density. |
 | 10 | [Become This](https://crossingshade.substack.com/p/become-this) | Morning after. A storm. Military-grade processors given an instruction no one ever gave them: not *carry this* — *become this*. |
-| 11 | Scene Eleven | New line. A pirate captain on a stolen alien ship. A false identity. Eleven days to delivery. The ship is listening. |
+| 11 | [The Stolen Ship](https://crossingshade.substack.com/p/the-stolen-ship) | New line. A pirate captain on a stolen alien ship. A false identity. Eleven days to delivery. The ship is listening. |
 | 12 | Scene Twelve | She returns to the signal room. Amber light, warm metal, a power curve that should be flat. He holds the mask. Underneath the floor, something is awake. |
 | 13 | Scene Thirteen | Three exiles find the center at the same time. A wrong answer, a sleepless night, and hands that don't match a voice. |
 | 14 | Scene Fourteen | Kess alone on the stolen ship. The ship changes its light, reveals a route anomaly around Packet 31, and waiting turns into interception. |
