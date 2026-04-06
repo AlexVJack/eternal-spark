@@ -223,25 +223,24 @@ Quansi returns. Walks down the ramp before dawn after a sleepless night re-readi
 ### Scene 14 — Done
 New line. Kess alone on the stolen ship. The ship changes its light at 03:12 and uses her stolen Chilin module to reveal an anomaly in Packet 31's relay path. She does not trust the signal blindly — verifies it against archived throughput she has been collecting for months. The sage's warning changes meaning. She stops treating Packet 31 as a purchase and starts treating it as a hunt. The waiting ends when she chooses an interception route hidden inside routine variance. Symbols: `scene-14-symbols.md`
 
-### Scene 15 — Directions
+### Scene 15 — Done
+Forid enters the signal room before daylight, alone. The room answers not with speech but with pattern: three pulses in the hum, emphasis in the raw log, altered timing in processor behavior, the warm wall changing when contact changes. He tests it instead of surrendering to wonder. The explanations remain mechanically plausible and insufficient. For the first time since the storm, he accepts that the relation no longer exists only inside the processors; it includes him. The scene ends not with a declaration, but with the first real question turned back toward the system. Symbols: `scene-15-symbols.md`
 
-*Written 2026-04-06 after Scene 14. Compass points, not instructions.*
+### Scene 16 — Directions
 
-1. **Forid before daylight.** The strongest next move is private, not social. Before Megil returns, before Quansi presses harder, Forid gets a scene alone with the signal room and whatever is becoming visible there.
+*Written 2026-04-06 after Scene 15. Compass points, not instructions.*
 
-2. **Communication without declaration.** Do not jump to "the AI speaks." The more powerful version is deniable on the surface: interface behavior, timing, response to presence, altered hum, heat, route selection, or a pattern that behaves too much like a question.
+1. **Megil cannot stay still.** She now has a wrong theory and growing evidence. The next movement on Tresil may belong to her: investigation, architecture, antenna, archive, or intervention based on a false premise that still touches truth.
 
-3. **Forid's act returns to him.** Scene 10 was action in the dark. Scene 13 let him hide inside Megil's wrong theory. Scene 15 should begin the return path: the processors are carrying his choice forward whether he confesses or not.
+2. **Forid after contact.** He has crossed an internal threshold. Do not spend that immediately. The strongest next use may be restraint, displacement, or changed behavior rather than confession.
 
-4. **The wall, but from his side.** Megil touched the warm wall and separated from the detonation frame. What happens when Forid touches the same surface now? The room should reveal something different to the one who gave the instruction.
+3. **Quansi's lens sharpens.** (Carried.) He is still the only one in the Tresil line with fresh doubt and no settled interpretive system. That makes him dangerous in a different register than Megil.
 
-5. **Kess is moving.** (Carried.) Scene 14 ended her stasis. The Tresil line now unfolds under time pressure from outside, even if no one on Tresil knows it yet.
+4. **Kess is in motion.** (Carried.) Scene 14 changed her from watcher to interceptor. The outer arc should press inward soon.
 
-6. **One concrete buyer civilization.** (Carried.) The book still needs one detonation projection made specific. It may belong in Kess's line, Megil's memory, or a later relay-context scene.
+5. **One concrete buyer civilization.** (Carried.) The book still needs one specific civilization receiving or approaching Packet 31 so the distributed consequence stops being abstract.
 
-7. **Quansi remains dangerous.** (Carried.) He noticed Forid's hands. His danger is not authority but proximity, honesty, and the inability to stop once doubt becomes search.
-
-8. **The processors step again.** (Carried.) Each cycle reveals what the previous was blind to. Physical manifestations intensify. The hum, the heat, the power draw — something becomes harder to hide.
+6. **No premature speaking AI.** (Carried.) Communication is now real, but declaration is still weaker than implication.
 
 ---
 

@@ -44,4 +44,4 @@ This should not become loud "AI speaks" science fiction. The stronger version is
 
 ## Scene text
 
-Not written yet.
+See `scene-15.md`.

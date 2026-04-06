@@ -36,7 +36,7 @@ Written publicly on GitHub. Every commit is a new scene.
 | 12 | Scene Twelve | She returns to the signal room. Amber light, warm metal, a power curve that should be flat. He holds the mask. Underneath the floor, something is awake. |
 | 13 | Scene Thirteen | Three exiles find the center at the same time. A wrong answer, a sleepless night, and hands that don't match a voice. |
 | 14 | Scene Fourteen | Kess alone on the stolen ship. The ship changes its light, reveals a route anomaly around Packet 31, and waiting turns into interception. |
-| 15 | Scene Fifteen (symbols) | Forid before daylight. Exile, shadow, forgiveness, surface: the beginning of contact without declaration. |
+| 15 | Scene Fifteen | Forid alone before daylight. The signal room answers with pattern, warmth, and timing. Relation begins before language does. |
 
 ---
 
