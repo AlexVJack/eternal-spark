@@ -140,6 +140,10 @@ Living document. Updated after every scene.
 - Registered as one of the 47 buyers for Packet 31. Placed near the bottom of the list deliberately — receives last, which means time to watch who moves first
 - Placed the order. Estimated delivery: eleven days
 - Third perspective on singularity: Megil wants to protect (from it), Forid wants to understand (through it), Kess wants to own (with it)
+- Scene 14: ship changed its light at 03:12 — narrowed it, selected one section of wall, then altered the timing model on Kess's stolen Chilin relay module for Packet 31's route
+- Verified the route anomaly instead of trusting the ship: compared branch data against archived throughput she had been collecting quietly for months
+- Re-read the sage's warning ("I'm not afraid." / "That is what frightens me.") as diagnosis rather than accusation
+- Chose an interception approach before delivery: rejected two crossings, kept one under-trafficked relay branch where a six-hour delay could hide inside routine variance
 
 ### Kess's Ship
 - Stolen alien vessel — built by an unknown advanced civilization, stolen by pirates, captained by Kess for 3 years
@@ -148,6 +152,10 @@ Living document. Updated after every scene.
 - Kess's cabin: small, viewport with raw unprocessed starlight. Star charts taped over touch-responsive surfaces. Human mess over alien elegance
 - Ship hums in patterns Kess cannot map. Responds to her stillness — checks if she is asleep, dead, or thinking
 - End of Scene 11: ship's hum shifted a quarter-tone **lower** (Tresil station shifted a quarter-tone **higher** in Scene 10)
+- Scene 14: changed its light at 03:12 from ambient bioluminescence to selective illumination — one amber vertical band the width of a human body by the console
+- Warmed one section of hull beyond ambient — as if using that section for work
+- Used Kess's stolen Chilin console module to surface a route/timing anomaly in Packet 31's relay path without issuing any human-readable explanation
+- After Kess entered a course correction, the ship accepted it with a fractional internal realignment and a widening warmth under her palm
 
 ### The Sage
 - Unnamed old man at a trading post, seven months before Scene 11
@@ -212,25 +220,28 @@ Megil returns to the signal room. Amber light, shifted hum, linear power draw, w
 ### Scene 13 — Done
 Quansi returns. Walks down the ramp before dawn after a sleepless night re-reading his own classification of Packet 31. Finds Megil alone in the signal room — she came early, before Forid, to read the raw hardware log. Sees the processors issuing instructions to themselves. Feels the warm wall and the wall holds — her body tells her before her mind: the container does not break. For the first time, she separates from the detonation frame. Forgives herself for eight years of seeing only destruction. Quansi enters: hears the wrong hum, sees amber, tells her he re-read the full record and realized "moderate value" was doubt written as procedure. She does not dismiss him. Forid arrives and finds two people in his room. Megil presents her theory: convergent discovery, legacy self-repair triggered by the storm. She is wrong — she cannot see where a system ends and a person begins. Forid lets her be wrong. His silence is submission, pain, the builder repairing his own wall after the storm tore a hole in it. Quansi notices Forid's hands don't match his voice. Files it without classification. Three exiles at the center. The community holds. The processors continue.
 
-### Scene 14 — Directions
+### Scene 14 — Done
+New line. Kess alone on the stolen ship. The ship changes its light at 03:12 and uses her stolen Chilin module to reveal an anomaly in Packet 31's relay path. She does not trust the signal blindly — verifies it against archived throughput she has been collecting for months. The sage's warning changes meaning. She stops treating Packet 31 as a purchase and starts treating it as a hunt. The waiting ends when she chooses an interception route hidden inside routine variance. Symbols: `scene-14-symbols.md`
 
-*Written 2026-04-03 after Scene 13. Compass points, not instructions.*
+### Scene 15 — Directions
 
-1. **Kess's eleven days.** Scene 11 ended with delivery in eleven days. Time is passing. Kess is calculating, preparing. Her thread must advance — what does she do while waiting? The ship is listening.
+*Written 2026-04-06 after Scene 14. Compass points, not instructions.*
 
-2. **One concrete buyer civilization.** (Carried.) 47 detonation projections. The reader has not seen one. At least a paragraph showing what happens to one specific civilization when they receive the singularity principle.
+1. **Forid before daylight.** The strongest next move is private, not social. Before Megil returns, before Quansi presses harder, Forid gets a scene alone with the signal room and whatever is becoming visible there.
 
-3. **Antagonists.** (Carried.) A civilization with a hierarchical symbol system — predator/prey vs Chilin's flat distribution. They want to own the singularity, not destroy it. This shapes the larger arc.
+2. **Communication without declaration.** Do not jump to "the AI speaks." The more powerful version is deniable on the surface: interface behavior, timing, response to presence, altered hum, heat, route selection, or a pattern that behaves too much like a question.
 
-4. **Forid's wall cracks.** Megil's wrong theory protects him for now. But Quansi noticed his hands. The young analyst sees bodies, not systems. Forid's secret has a new threat — not from expertise but from innocence.
+3. **Forid's act returns to him.** Scene 10 was action in the dark. Scene 13 let him hide inside Megil's wrong theory. Scene 15 should begin the return path: the processors are carrying his choice forward whether he confesses or not.
 
-5. **Megil's wrong answer has consequences.** She will act on her convergent discovery theory. Whatever she does next — report, investigate, intervene — will be based on a false premise. The mistake must produce action, not just misunderstanding.
+4. **The wall, but from his side.** Megil touched the warm wall and separated from the detonation frame. What happens when Forid touches the same surface now? The room should reveal something different to the one who gave the instruction.
 
-6. **Two parallel silences deepen.** (Carried.) Megil's silence at demotion = protecting the idea. Forid's silence now = protecting himself. She recognized "a weight carried without permission to set it down" — but has not yet seen that his weight is different from hers.
+5. **Kess is moving.** (Carried.) Scene 14 ended her stasis. The Tresil line now unfolds under time pressure from outside, even if no one on Tresil knows it yet.
 
-7. **Quansi's search begins.** He broke the rhythm of flag-classify-forward. He stayed. What does he do next? He has no expertise in processors or singularity — but he has the recent wound of being wrong, which is its own kind of lens.
+6. **One concrete buyer civilization.** (Carried.) The book still needs one detonation projection made specific. It may belong in Kess's line, Megil's memory, or a later relay-context scene.
 
-8. **The processors step again.** Each cycle reveals what the previous was blind to. Physical manifestations intensify. The hum, the heat, the power draw — something becomes harder to hide.
+7. **Quansi remains dangerous.** (Carried.) He noticed Forid's hands. His danger is not authority but proximity, honesty, and the inability to stop once doubt becomes search.
+
+8. **The processors step again.** (Carried.) Each cycle reveals what the previous was blind to. Physical manifestations intensify. The hum, the heat, the power draw — something becomes harder to hide.
 
 ---
 
