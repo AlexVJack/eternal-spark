@@ -18,6 +18,18 @@ Written publicly on GitHub. Every commit is a new scene.
 
 ---
 
+## Publication Layers
+
+This project lives in three layers:
+
+- **Inner layer** -- the invisible kitchen: symbols, story pressure, origins, prompts, continuity notes.
+- **GitHub** -- the secret depth: scenes in progress, symbol traces, Bible material, world fragments, and the deeper structure behind publication.
+- **Substack** -- the public face: the final scene text with its authentic illustrations.
+
+If you found the GitHub, you found the hidden layer of the book.
+
+---
+
 ## Scenes
 
 | # | Title | |
