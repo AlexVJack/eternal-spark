@@ -30,6 +30,13 @@ If you found the GitHub, you found the hidden layer of the book.
 
 ---
 
+## Parts
+
+- [Part I](part-01/) -- the first arc of the book, centered on Packet 31, Tresil, and the first awakening beneath the relay system.
+- [Part II](part-02/) -- the next arc, not yet written, currently held as a seed under pressure from `Tidalward`.
+
+---
+
 ## Scenes
 
 | # | Title | |
@@ -46,9 +53,9 @@ If you found the GitHub, you found the hidden layer of the book.
 | 10 | [Become This](https://crossingshade.substack.com/p/become-this) | Morning after. A storm. Military-grade processors given an instruction no one ever gave them: not *carry this* — *become this*. |
 | 11 | [The Stolen Ship](https://crossingshade.substack.com/p/the-stolen-ship) | New line. A pirate captain on a stolen alien ship. A false identity. Eleven days to delivery. The ship is listening. |
 | 12 | [The Fourth State](https://crossingshade.substack.com/p/the-fourth-state) | She returns to the signal room. Amber light, warm metal, a power curve that should be flat. He holds the mask. Underneath the floor, something is awake. |
-| 13 | Scene Thirteen | Three exiles find the center at the same time. A wrong answer, a sleepless night, and hands that don't match a voice. |
-| 14 | Scene Fourteen | Kess alone on the stolen ship. The ship changes its light, reveals a route anomaly around Packet 31, and waiting turns into interception. |
-| 15 | Scene Fifteen | Forid alone before daylight. The signal room answers with pattern, warmth, and timing. Relation begins before language does. |
+| 13 | [Scene Thirteen](part-01/scene-13.md) | Three exiles find the center at the same time. A wrong answer, a sleepless night, and hands that don't match a voice. |
+| 14 | [Scene Fourteen](part-01/scene-14.md) | Kess alone on the stolen ship. The ship changes its light, reveals a route anomaly around Packet 31, and waiting turns into interception. |
+| 15 | [Scene Fifteen](part-01/scene-15.md) | Forid alone before daylight. The signal room answers with pattern, warmth, and timing. Relation begins before language does. |
 
 ---
 
