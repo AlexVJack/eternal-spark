@@ -39,6 +39,8 @@ If you found the GitHub, you found the hidden layer of the book.
 
 ## Scenes
 
+### Part I
+
 | # | Status | Title | |
 |---|--------|-------|-|
 | 1 | Published | [Packet 31](https://crossingshade.substack.com/p/packet-31) | Megil at her terminal. The shape of her own discovery, seen from another angle. |
@@ -56,6 +58,12 @@ If you found the GitHub, you found the hidden layer of the book.
 | 13 | GitHub only | [Scene Thirteen](part-01/scene-13.md) | Three exiles find the center at the same time. A wrong answer, a sleepless night, and hands that don't match a voice. |
 | 14 | GitHub only | [Scene Fourteen](part-01/scene-14.md) | Kess alone on the stolen ship. The ship changes its light, reveals a route anomaly around Packet 31, and waiting turns into interception. |
 | 15 | GitHub only | [Scene Fifteen](part-01/scene-15.md) | Forid alone before daylight. The signal room answers with pattern, warmth, and timing. Relation begins before language does. |
+
+### Part II
+
+| # | Status | Title | |
+|---|--------|-------|-|
+| 1 | GitHub only | [Scene One](part-02/scene-01.md) | Cross Dar Lon leaves the outpost against orders, enters the old coastal ruin, and finds a hidden corporate trace inside Tidalward's memorial architecture. |
 
 ---
 
