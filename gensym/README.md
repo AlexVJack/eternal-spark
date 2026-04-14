@@ -6,7 +6,7 @@ A generative symbol system for narrative fiction.
 
 ## What is this
 
-128 symbols — fundamental units of meaning that cover physics, mathematics, psychology, narrative, and human experience. Organized into 16 categories.
+136 symbols — fundamental units of meaning that cover physics, mathematics, psychology, narrative, and human experience. Organized into 17 categories.
 
 Not tarot. Not runes. No mystical baggage — just archetypes embedded in language and thought.
 
@@ -31,9 +31,9 @@ Look for:
 - **Sequence** — does one symbol lead to another?
 - **The unexpected** — the combination that surprises you contains the story
 
-## The 16 categories
+## The 17 categories
 
-Forces · Space & Movement · States · Actions · Relations · Archetypes · Elements · Psychology · Cognition · Temporal · Conflict · Nature & Cosmos · Body & Matter · Social · Abstract · Structural
+Forces · Space & Movement · States · Actions · Relations · Archetypes · Elements · Psychology · Cognition · Temporal · Conflict · Nature & Cosmos · Body & Matter · Social · Abstract · Structural · Form & Space
 
 Full list: `symbols.md`
 Randomizer script: `gensym.py` (requires Python 3, no dependencies)
